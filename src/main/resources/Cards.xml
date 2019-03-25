@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cards>
+	<card id="1">
+		<name>Nicol Bolas Dios Faraon</name>
+		<summonCost>7</summonCost>
+		<attack>7</attack>
+		<defense>5</defense>
+		<value>6</value>
+
+	</card>
+	
+	<card id="2">
+		<name>Jace el Escultor de Mentes</name>
+		<summonCost>4</summonCost>
+		<attack>3</attack>
+		<defense>3</defense>
+		<value>4</value>
+	</card>
+
+	<card id="3">
+		<name>Kaalia de la Vastedad</name>
+		<summonCost>4</summonCost>
+		<attack>2</attack>
+		<defense>2</defense>
+		<value>3</value>
+	</card>
+
+	<card id="4">
+		<name>Darigaz Reencarnado</name>
+		<summonCost>7</summonCost>
+		<attack>7</attack>
+		<defense>7</defense>
+		<value>5</value>
+	</card>
+
+	<card id="5">
+		<name>Odric Maestro Tactico</name>
+		<summonCost>4</summonCost>
+		<attack>3</attack>
+		<defense>4</defense>
+		<value>4</value>
+	</card>
+
+	<card id="6">
+		<name>Xenagos Dios del Deleite</name>
+		<summonCost>5</summonCost>
+		<attack>6</attack>
+		<defense>5</defense>
+		<value>6</value>
+	</card>
+
+	<card id="7">
+		<name>Aurelia la Lider de Guerra</name>
+		<summonCost>6</summonCost>
+		<attack>3</attack>
+		<defense>4</defense>
+		<value>5</value>
+	</card>
+
+	<card id="8">
+		<name>Animar Alma de los Elementos</name>
+		<summonCost>3</summonCost>
+		<attack>1</attack>
+		<defense>1</defense>
+		<value>2</value>
+	</card>
+
+	<card id="9">
+		<name>Ghave el Guru de las Esporas</name>
+		<summonCost>5</summonCost>
+		<attack>5</attack>
+		<defense>5</defense>
+		<value>7</value>
+	</card>
+
+	<card id="10">
+		<name>Ugin el Dragon Espiritu</name>
+		<summonCost>8</summonCost>
+		<attack>8</attack>
+		<defense>5</defense>
+		<value>8</value>
+	</card>
+	
+	<card id="11">
+		<name>Ajani Implacable</name>
+		<summonCost>6</summonCost>
+		<attack>5</attack>
+		<defense>4</defense>
+		<value>6</value>
+	</card>
+	
+	<card id="12">
+		<name>Ral Llamador de Tormentas</name>
+		<summonCost>6</summonCost>
+		<attack>4</attack>
+		<defense>3</defense>
+		<value>4</value>
+	</card>
+	
+	<card id="13">
+		<name>Domri Portadora de Caos</name>
+		<summonCost>4</summonCost>
+		<attack>3</attack>
+		<defense>2</defense>
+		<value>3</value>
+	</card>
+	
+	<card id="14">
+		<name>Ral Zarek</name>
+		<summonCost>4</summonCost>
+		<attack>4</attack>
+		<defense>2</defense>
+		<value>4</value>
+	</card>
+	
+	<card id="15">
+		<name>Garruk Cazador Primordial</name>
+		<summonCost>5</summonCost>
+		<attack>7</attack>
+		<defense>5</defense>
+		<value>5</value>
+	</card>
+	
+	<card id="16">
+		<name>Chandra Piromaestra</name>
+		<summonCost>5</summonCost>
+		<attack>2</attack>
+		<defense>2</defense>
+		<value>3</value>
+	</card>
+	
+	<card id="17">
+		<name>Ob Nixilis del Juramento Negro</name>
+		<summonCost>7</summonCost>
+		<attack>8</attack>
+		<defense>8</defense>
+		<value>7</value>
+	</card>
+	
+	<card id="18">
+		<name>Nemesis Nombre Verdadero</name>
+		<summonCost>3</summonCost>
+		<attack>4</attack>
+		<defense>2</defense>
+		<value>2</value>
+	</card>
+	
+	<card id="19">
+		<name>Hytonia la Cruel</name>
+		<summonCost>6</summonCost>
+		<attack>4</attack>
+		<defense>6</defense>
+		<value>4</value>
+	</card>
+	
+	<card id="20">
+		<name>Malfegor</name>
+		<summonCost>6</summonCost>
+		<attack>6</attack>
+		<defense>6</defense>
+		<value>6</value>
+	</card>
+</cards>
